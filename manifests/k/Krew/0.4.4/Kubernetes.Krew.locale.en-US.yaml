@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.5.0.schema.json
+
+PackageIdentifier: Kubernetes.Krew
+PackageVersion: 0.4.4
+PackageLocale: en-US
+Publisher: Kubernetes
+PublisherUrl: https://kubernetes.io/
+PublisherSupportUrl: https://github.com/kubernetes-sigs/krew/issues
+Author: The Kubernetes Authors
+PackageName: Krew
+PackageUrl: https://github.com/kubernetes-sigs/krew
+License: Apache License 2.0
+LicenseUrl: https://github.com/kubernetes-sigs/krew/blob/master/LICENSE
+Copyright: Copyright (c) The Kubernetes Authors
+ShortDescription: Find and install kubectl plugins
+Moniker: Krew
+ManifestType: defaultLocale
+ManifestVersion: 1.5.0
